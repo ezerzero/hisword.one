@@ -1,0 +1,7 @@
+* [课程简介](/)
+* [课程公开资料](/csmp-info.md)
+* [课程目录](/csmp-index.md)
+* [参考书目](/csmp-refbooks.md)
+* [不寐之夜博文目录](/bmzy-index.md)
+* [不寐之夜推荐书目](/recommend-books.md)
+* [读经安排](https://www.lectionary.cn)
