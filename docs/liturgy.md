@@ -1,5 +1,7 @@
 # 路德教会主日程序（Divine Service Setting One）
 
+（ 提醒：【】标识的地方请按"Lutheran Service Book: Altar Book"中的"Propers of thd Day"更换 ）
+
 ## 认罪赦罪礼（Confession and Absolution）
 
 全体起立
@@ -68,18 +70,19 @@
 
 ### 福音颂词（Alleluia and Verse）
 
+众：
 ![Alleluia](http://img.lectionary.cn/Alleluia.png)
 
 ### 福音经文（Holy Gospel）
 
-牧：今天的福音经文是：____福音____章____节
-
+牧：今天的福音经文是：....福音....章....节  
+众：
 ![Gloria Tibi Domine](http://img.lectionary.cn/Gloria_Tibi_Domine.png)
 
 【福音经文（Holy Gospel）】
 
-牧：这是主的福音
-
+牧：这是主的福音  
+众：
 ![Laus Tibi Christe](http://img.lectionary.cn/Laus_Tibi_Christe.png)
 
 ### 主日赞美诗（Hymn of the Day）
@@ -101,9 +104,9 @@
 ### 教会祷告（Prayer of the Church）
 
 牧：我们要为在耶稣基督里上帝的子民，并为一切有需要的人祈求。  
-牧：____，主啊，求你怜悯！  
+牧、......，主啊，求你怜悯！  
 众：垂听我们的祷告。  
-牧：____，主啊，求你怜悯！  
+牧：......，主啊，求你怜悯！  
 众：垂听我们的祷告。  
 牧：主啊，我们信靠你的慈爱，将我们代祷的人交托在你手里，奉靠你儿子、我们主耶稣基督的名求！  
 众：阿们。
@@ -120,6 +123,7 @@
 
 ### 奉献歌（Offertory）
 
+众：  
 ![Offertory](http://img.lectionary.cn/Offertory.png)
 
 ## 圣餐礼（Service of the Sacrament）
@@ -128,10 +132,11 @@
 
 ![Preface](http://img.lectionary.cn/Preface.png)
 
-牧：我们应当随时随地，全心全意籍着我主耶稣基督感谢你，【......应季序祷文（The Proper Preface）......】所以我们同著众天使、天使长，和天军，一同赞美尊崇袮荣耀的名，永远赞美袮说：
+牧：【应季序祷文（The Proper Preface）】
 
 ### 三圣颂（Sanctus）
 
+众：  
 ![Sanctus](http://img.lectionary.cn/Sanctus.png)
 
 ### 谢恩祷告（Prayer of Thanksgiving）
@@ -160,6 +165,7 @@
 
 ### 上帝羔羊（Agnus Dei）
 
+众：  
 ![Agnus Dei](http://img.lectionary.cn/Agnus_Dei.png)
 
 落座
