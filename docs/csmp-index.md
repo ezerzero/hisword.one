@@ -1,7 +1,7 @@
 # CSMP课程目录
 
 日期 | 讲章 | 视频
-:----------- | ----------- | -----------
+----------- | ----------- | -----------
 2019-11-03  |  [雅各书第六课：神说胜过蛇说与人说（3:1-12）](https://bmzy.montrealccc.com/2019-11-01-5598)  |  [雅各书第六课：国产催泪弹声优与抖音](https://www.youtube.com/watch?v=hhn0IjdkTZI)  
 2019-10-27  |  [雅各书第五课：这些骸骨能复活吗（2:14-26）](https://bmzy.montrealccc.com/2019-10-25-5570)  |  [雅各书第五课：集装箱的39位死者](https://www.youtube.com/watch?v=xkyR1MuR80A)  
 2019-10-20  |  [雅各书第四课，论他们教会不能得救（2:1-13）](http://bmzy.montrealccc.com/2019-10-18-5562)  |  [雅各书第四课：丧尽天良的基督教](https://www.youtube.com/watch?v=2b58WBrZ1I4)  
