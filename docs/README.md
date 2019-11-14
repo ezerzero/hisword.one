@@ -12,7 +12,11 @@ CSMP（Chinese Specific Ministry Pastor）
 
 * [CSMP公开资料](/csmp-info.md)
 * [CSMP课程目录](/csmp-index.md)
+* [CSMP课程讲章](/sermon.md)
 * [CSMP参考书目](/csmp-refbooks.md)
 * [主日聚会程序](/liturgy.md)
+* [赞美诗](/hymns.md)
+* [圣洗礼](/holy-baptism.md)
+* [坚信礼](/confirmation.md)
 * [不寐之夜文章目录](/bmzy-index.md)
 * [不寐之夜推荐书目](/recommend-books.md)

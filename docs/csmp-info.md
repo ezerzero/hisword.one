@@ -92,7 +92,7 @@
 * 09_创世记12-36
   * [视频](https://pan.baidu.com/s/1iXUm11u6EEOUQ0ou6Yp6Yg)
   * [音频+PPT](https://pan.baidu.com/s/1EHh8AzmnvaBz3AkJiPXUMQ)
-* 1[0_2018年夏主日证道及以色列之旅](https://pan.baidu.com/s/1OrZN92a3ueW-EY1LHmugpA)
+* [10_2018年夏主日证道及以色列之旅](https://pan.baidu.com/s/1OrZN92a3ueW-EY1LHmugpA)
   * 音频
   * 视频
   * PPT
