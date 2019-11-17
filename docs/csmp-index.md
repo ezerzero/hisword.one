@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2019-11-17  |  [雅各书第八课：你们这些淫乱的人哪（4:1-4）](https://bmzy.montrealccc.com/2019-11-15-5634)  |  [雅各书第八课：猪瘟鼠疫与大淫妇](https://www.youtube.com/watch?v=dL7XI1RGd48)  
 2019-11-10  |  [雅各书第七课：教会胜过阴间的门（3:13-18）](https://bmzy.montrealccc.com/2019-11-08-5613)  |  [雅各书第七课：我们的弟兄周梓樂](https://www.youtube.com/watch?v=jvTdvdWO3qU)  
 2019-11-03  |  [雅各书第六课：神说胜过蛇说与人说（3:1-12）](https://bmzy.montrealccc.com/2019-11-01-5598)  |  [雅各书第六课：国产催泪弹声优与抖音](https://www.youtube.com/watch?v=hhn0IjdkTZI)  
 2019-10-27  |  [雅各书第五课：这些骸骨能复活吗（2:14-26）](https://bmzy.montrealccc.com/2019-10-25-5570)  |  [雅各书第五课：集装箱的39位死者](https://www.youtube.com/watch?v=xkyR1MuR80A)  
