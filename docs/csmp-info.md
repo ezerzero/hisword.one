@@ -8,8 +8,14 @@
 ## 友情提醒
 
 * 百度网盘的内容可能随时无法访问，如有需要请及时保存并下载到本地，推荐使用客户端[PanDownload](http://pandownload.com/)（如需下载所有文件，可能需要超级VIP才能顺利下载）或[https://www.baiduwp.com/](https://www.baiduwp.com/)（推荐使用）下载百度网盘中的文件。另外，从雅各书开始，建议下载文件名带“（MP3+PPT）”的视频。
-* 原文课程将继续使用Zoom，建议参加课程的弟兄姊妹学会科学上网，继续使用国际版。
+* 原文课程将继续使用Zoom，建议参加课程的弟兄姊妹学会[科学上网](https://haoel.github.io/)，继续使用国际版。
 * [http://www.csmp.xyz](http://www.csmp.xyz)，每周一早上更新圣经课程音频和PPT。
+
+## 工具
+
+* 视频压缩：[HandBrake](https://handbrake.fr/)
+* 音频剪辑：[Audacity](https://www.audacityteam.org/)
+* 歌谱制作：[MuseScore](https://musescore.org/)
 
 ## 交流社群
 
@@ -114,7 +120,7 @@
   * 任不寐_以马忤斯（视频）
   * 任不寐_启示录（部分音频及视频）
   * 任不寐_我是谁（视频）
-  * 任不寐_中国文化精义（音频）
+  * 任不寐_中国文明精义（音频+PPT）
   * 任不寐_山上系列--崇拜神学（音频）
   * Ordination of Ren BuMei（视频）
 * 学习资源（仅OneDrive，海外）
