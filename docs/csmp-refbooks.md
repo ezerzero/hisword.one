@@ -13,6 +13,7 @@
 * [Basics of Biblical Hebrew Grammar](http://www.amazon.com/dp/0310520673/)
 * [Biblical Hebrew Laminated Sheet](http://www.amazon.com/dp/031026295X/)
 * [Biblical Greek Laminated Sheet](http://www.amazon.com/dp/0310262941/)
+* Textus Receptus
 
 ## 旧约
 

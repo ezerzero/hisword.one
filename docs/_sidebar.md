@@ -7,6 +7,6 @@
 * [赞美诗](/hymns.md)
 * [圣洗礼](/holy-baptism.md)
 * [坚信礼](/confirmation.md)
+* [读经安排](/lectionary.md)
 * [不寐之夜博文目录](/bmzy-index.md)
 * [不寐之夜推荐书目](/recommend-books.md)
-* [读经安排](https://www.lectionary.cn)
