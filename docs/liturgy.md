@@ -36,6 +36,8 @@
 
 ### 颂歌（Hymn of Praise）
 
+*Advent及Lent期间，颂歌部分取消*
+
 ![Gloria in Excelsis](http://img.lectionary.cn/Gloria_in_Excelsis.png)
 
 ### Solution
@@ -69,6 +71,8 @@
 众：感谢上帝。
 
 ### 福音颂词（Alleluia and Verse）
+
+*平时唱哈利路亚颂（约翰福音6:68），Lent期间唱“归向耶和华我们的神”（约珥书2:13）*
 
 众：
 ![Alleluia](http://img.lectionary.cn/Alleluia.png)
