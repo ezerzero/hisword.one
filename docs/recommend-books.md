@@ -12,7 +12,7 @@
 
 ### 2012年12月06日《问答与回应：“任不寐讲道很好，但是……”》问答3
 
->小小土豆儿 [2012-11-30 12:52:31 AM] 我是从土豆网过来了。《主日程序》那个视频让我震撼不已。因此很想问问，若要进一步了解路德和路德神学，应该找那些著作来看？英文的也可以，谢谢！
+>小小土豆儿2012-11-30：我是从土豆网过来了。《主日程序》那个视频让我震撼不已。因此很想问问，若要进一步了解路德和路德神学，应该找那些著作来看？英文的也可以，谢谢！
 
 平安。不寐之夜欢迎新来的朋友。我个人建议通过以下三本专著认识路德这个人。Martin Brecht, Martin Luther, 3 vols., trans. by James L. Schaaf (Minneapolis: Fortress)；Roland Herbert Bainton：Here I Stand: A Life of Martin Luther，1950。Heiko Augustinus Oberman：Luther - Man between God and the Devil（这本书的德文版出版于1981年，英文版在1993年）。了解路德神学首先是读《协同书》（The Book of Concord，Tappert, Dau/Bente [Triglotta], or Jacobs editions)）。但以下两本书是非常有帮助的：Holsten Fagerberg, A New Look at the Lutheran Confessions 1529–1537 (St. Louis: Concordia, 1972)；Charles P. Arand, Robert Kolb, and James A. Nestingen, The Lutheran Confessions: History and Theology of the Book of Concord (Minneapolis: Fortress, 2012). 这些书都可以通过Amazon网上书店买到。愿神祝福你。
 
@@ -24,7 +24,7 @@
 
 ### 2013年09月04日《问答与回应：道歉，有些加尔文主义者不是邪教徒》问答6
 
->承受恩典2013-08-24 20:28:23 说： 任传道平安，盼望谈一下黑客帝国的神学？2布道会也也需要加入圣餐吗？
+>承受恩典2013-08-24说： 任传道平安，盼望谈一下黑客帝国的神学？2布道会也也需要加入圣餐吗？
 
 平安。“黑客帝国的神学”，从正面说，所有人都有末世焦虑；从负面说，基督以外的人只能靠遐想（瞎想）寻找安慰。布道会应该考虑加入圣餐，但也没有必要勉强。这也要看情况，如果非常重要的聚会，应该有圣餐。另外，我也借您的问题重新推荐一下“路德神学”，这些代表性著作能使我们有力量“删除”各种“黑客“：1、Harold Senkbeil, Dying to live；2、Harold Senkbeil, Sanctification, Christ in Action；3、Gene Edward Veith, Spirituality of the Cross；4、Gene Edward Veith, Postmodern Times；5、John Kleinig, Grace Upon Grace；6、Richard Eyer, Marriage is Like Dancing；7、Klemet Preus, The Fire and the Staff；8、Hermann Sasse, This Is My Body；9、Hermann Sasse,We Confess；10、Hermann Sasse, The Lonely Way；11、Stephen Mueller, Called to Believe。
 
