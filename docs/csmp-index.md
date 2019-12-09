@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2019-12-08  |  [雅各书第十一课：这样夸口是恶的（4:13-17）](https://bmzy.montrealccc.com/2019-12-06-5658)  |  [雅各书第十一课：习近平现象的终结](https://www.youtube.com/watch?v=6exukZ7NUTE)  
 2019-12-01  |  [雅各书第十课：谁论断谁，什么论断（4:11-12）](https://bmzy.montrealccc.com/2019-11-29-5651)  |  [雅各书第十课：论断与向心加速度](https://www.youtube.com/watch?v=eZwXV8Uiz1g)  
 2019-11-24  |  [雅各书第九课：基督徒务要抵挡魔鬼（4:5-10）](https://bmzy.montrealccc.com/2019-11-22-5637)  |  [雅各书第九课：王立强与撒但的国](https://www.youtube.com/watch?v=3S8jn2mYYp4)  
 2019-11-17  |  [雅各书第八课：你们这些淫乱的人哪（4:1-4）](https://bmzy.montrealccc.com/2019-11-15-5634)  |  [雅各书第八课：猪瘟鼠疫与大淫妇](https://www.youtube.com/watch?v=dL7XI1RGd48)  
