@@ -1305,7 +1305,7 @@
 
 ## 使我作你和平之子
 
-<a href="./hymns/make_me_a_channel_of_your_peace.png">查看歌谱</a>
+<a href="./hymns/make_me_a_channel_of_your_peace.jpg">查看歌谱</a>
 
 使我作你和平之子，在憎恨之处播下你的爱；  
 在伤痕之处播下你宽恕；在怀疑之处播下信心。  
