@@ -39,7 +39,11 @@
 ## 考试题汇编
 
 * [第一届（2015.7-2018.8）](./csmp-exam-1st.md)  
-* [第二届（2018.9-2021.9）](./csmp-exam-2nd.md)
+* [第二届（2018.9-2021.9）](./csmp-exam-2nd.md)  
+
+## 主日学
+
+* 少年人的圣经课程：[百度网盘](https://pan.baidu.com/s/1-NPkLTh-l7xRKbUAPYO8LA)、[OneDrive](https://1drv.ms/u/s!AgnuHY2oXaZpgbYlM2JSVvocUY-E9g?e=08qicA)
 
 ## 学习资料目录
 
@@ -50,7 +54,7 @@
   * LSB Setting One中文音乐
   * 原文课程参考资料
   * 分享已被百度取消
-* [15_少年人的圣经课程](https://pan.baidu.com/s/19D8JI3CotwuFn143BC5CjA)
+* [15_少年人的圣经课程](https://pan.baidu.com/s/19D8JI3CotwuFn143BC5CjA)【概论部分】
   * 讲章
   * 视频
   * 音频
