@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-01-05  |  [雅各书第十四课：教会的全面改革（5:12-20）](https://bmzy.montrealccc.com/2020-01-03-5721)  |  [雅各书第十四课：2020年的全面战争](https://www.youtube.com/watch?v=VLlMP06OSBw)  
 2019-12-29  |  [雅各书第十三课：你要忍耐直到主来（5:7-11）](https://bmzy.montrealccc.com/2019-12-27-5705)  |  [雅各书第十三课：基督教，那一场装X](https://www.youtube.com/watch?v=9kER3fc9jrg)  
 2019-12-22  |    |  [俄巴底亚书概论：少女怀孕](https://www.youtube.com/watch?v=iKbS_J9Pvnw)  
 2019-12-15  |  [雅各书第十二课：那关切政治的上帝（5:1-6）](https://bmzy.montrealccc.com/2019-12-13-5671)  |  [雅各书第十二课：我们神的政治关切](https://www.youtube.com/watch?v=r19oEqrfjX8)  
