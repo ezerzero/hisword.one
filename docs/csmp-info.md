@@ -53,6 +53,11 @@
   * LSB Setting One中文音乐
   * 原文课程参考资料
   * 分享已被百度取消
+* [16_犹大书](https://pan.baidu.com/s/1wJgr6NpQpxFCaGnxJkYD3w)
+  * 讲章
+  * 视频
+  * 音频
+  * PPT
 * [15_少年人的圣经课程](https://pan.baidu.com/s/19D8JI3CotwuFn143BC5CjA)【概论部分】
   * 讲章
   * 视频
