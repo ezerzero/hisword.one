@@ -79,6 +79,17 @@
 * [The Letter of James (The Pillar New Testament Commentary)](https://www.amazon.com/dp/0802837301)
 * [James (Zondervan Exegetical Commentary on the New Testament)](https://www.amazon.com/dp/0310244021/)
 
+### 雅各书
+
+* [James (by Martin Dibeliu)](https://www.amazon.com/dp/0800660064)
+* [The Letter of James](https://www.amazon.com/dp/0802837301)
+* [James (by Craig L. Blomberg)](https://www.amazon.com/dp/0310244021)
+* [Der Brief des Jakobus (by Gerhard Maier)](https://www.amazon.com/dp/3417297222)
+
+### 犹大书
+
+* [2 Peter and Jude - Concordia Commentary](https://www.amazon.com/dp/0758606966)
+
 ## 协同书
 
 * [Concordia: The Lutheran Confessions](https://www.amazon.com/dp/0758613431/)
