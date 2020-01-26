@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-01-26  |  [犹大书第三课：从所多玛蛾摩拉到武汉（5-7）](https://bmzy.montrealccc.com/2020-01-23-5749)  |  [犹大书第三课：新型冠状病毒](https://www.youtube.com/watch?v=x7wGjMChW6k)  
 2020-01-19  |  [犹大书第二课：我们，要为真理而斗争（3-4）](https://bmzy.montrealccc.com/2020-01-17-5740) |  [犹大书第二课：天下制裁粪坑淫妇](https://www.youtube.com/watch?v=c996RFiGzAo)  
 2020-01-12  |  [犹大书导论：你这妓女阿，要听主的话（1:1-2）](https://bmzy.montrealccc.com/2020-01-10-5730) |  [犹大书导论：铜锣湾之裙](https://www.youtube.com/watch?v=yNO_DvzTY2I)  
 2020-01-05  |  [雅各书第十四课：教会的全面改革（5:12-20）](https://bmzy.montrealccc.com/2020-01-03-5721)  |  [雅各书第十四课：2020年的全面战争](https://www.youtube.com/watch?v=VLlMP06OSBw)  
