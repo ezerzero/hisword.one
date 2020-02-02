@@ -2,7 +2,7 @@
 
 ## 通知
 
-* 从2020年1月20日开始，原文课程暂停，恢复时间等牧师通知。
+* 2020年2月8日晚8点，原文课程复课。
 
 ## 友情提醒
 
@@ -15,6 +15,7 @@
 * 视频压缩：[HandBrake](https://handbrake.fr/)
 * 音频剪辑：[Audacity](https://www.audacityteam.org/)
 * 歌谱制作：[MuseScore](https://musescore.org/)
+* 字幕制作：[ArcTime](https://www.arctime.cn/)
 
 ## 交流社群
 
@@ -53,6 +54,7 @@
   * LSB Setting One中文音乐
   * 原文课程参考资料
   * 分享已被百度取消
+* [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 密码:p6xu
 * [16_犹大书](https://pan.baidu.com/s/1wJgr6NpQpxFCaGnxJkYD3w)
   * 讲章
   * 视频
