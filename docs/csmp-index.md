@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-02-09  |  [犹大书第五课：世界面临一场大审判（14-16）](https://bmzy.montrealccc.com/2020-02-07-5788)  |  [犹大书第五课：中国病毒起源](https://www.youtube.com/watch?v=5BUE_RWG_Lo)  
 2020-02-02  |  [犹大书第四课：掌权者与没有灵性的畜类（8-13）](https://bmzy.montrealccc.com/2020-01-31-5771)  |  [犹大书第四课：全球反锁中国](https://www.youtube.com/watch?v=ki1mcIV2ulw)  
 2020-01-26  |  [犹大书第三课：从所多玛蛾摩拉到武汉（5-7）](https://bmzy.montrealccc.com/2020-01-23-5749)  |  [犹大书第三课：新型冠状病毒](https://www.youtube.com/watch?v=x7wGjMChW6k)  
 2020-01-19  |  [犹大书第二课：我们，要为真理而斗争（3-4）](https://bmzy.montrealccc.com/2020-01-17-5740) |  [犹大书第二课：天下制裁粪坑淫妇](https://www.youtube.com/watch?v=c996RFiGzAo)  
