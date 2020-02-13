@@ -19,15 +19,16 @@
 
 ## 交流社群
 
-请用微信扫一扫加入（“发现”--“小程序”--“知识星球”），或下载“[知识星球](https://www.zsxq.com/)”App，打开后查找“一小群”（id: 53661116）。
+[Mixin Messenger](https://mixin.one)
 
-![知识星球](http://img.hisword.cn/yixiaoqun.jpeg)
+系统要求：Android 6.0、iOS 11.0
 
-知识星球支持：
+安卓用户如果不能顺利访问Google Play，可以在[官网](https://mixin.one)下载安装包。
+iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；海外用户从app store安装“Mixin Messenger”即可。
 
-* 网页版：可以在 Windows、Mac、Linux 等系统使用，方便文字编辑和文件、音频上传，访问地址：[https://wx.zsxq.com/dweb/](https://wx.zsxq.com/dweb/)
-* APP 版：体验最好，功能最完整。支持 iPhone 和 iPad 和安卓，在应用市场搜索「知识星球」即可下载，也可以用手机访问[https://www.zsxq.com/](https://www.zsxq.com/)下载；
-* 微信版：包括小程序和微信公众号，在微信里搜索「知识星球」就能访问，该版本可以使用绝大多数功能，支持发表主题、点赞、评论等；
+另外，Mixin Messenger还有桌面版，桌面版支持Mac OS，Windows X64等。
+
+注册成功后请加“20072”为好友。
 
 ## 特别说明
 
