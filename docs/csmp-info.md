@@ -21,14 +21,14 @@
 
 [Mixin Messenger](https://mixin.one)
 
-系统要求：Android 6.0、iOS 11.0
+手机系统要求：Android 6.0、iOS 11.0
 
 安卓用户如果不能顺利访问Google Play，可以在[官网](https://mixin.one)下载安装包。
 iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；海外用户从app store安装“Mixin Messenger”即可。
 
 另外，Mixin Messenger还有桌面版，桌面版支持Mac OS，Windows X64等。
 
-注册成功后请加“20072”为好友。
+注册成功后请加“7000103042”为好友。
 
 ## 特别说明
 

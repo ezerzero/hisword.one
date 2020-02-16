@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-02-14  |  [犹大书第六课：在末世灾变中的教会（17-23）](https://bmzy.montrealccc.com/2020-02-14-5816)  |  [犹大书第六课：武汉生化武器](https://www.youtube.com/watch?v=_j91fxdk7_U)  
 2020-02-09  |  [犹大书第五课：世界面临一场大审判（14-16）](https://bmzy.montrealccc.com/2020-02-07-5788)  |  [犹大书第五课：中国病毒起源](https://www.youtube.com/watch?v=5BUE_RWG_Lo)  
 2020-02-02  |  [犹大书第四课：掌权者与没有灵性的畜类（8-13）](https://bmzy.montrealccc.com/2020-01-31-5771)  |  [犹大书第四课：全球反锁中国](https://www.youtube.com/watch?v=ki1mcIV2ulw)  
 2020-01-26  |  [犹大书第三课：从所多玛蛾摩拉到武汉（5-7）](https://bmzy.montrealccc.com/2020-01-23-5749)  |  [犹大书第三课：新型冠状病毒](https://www.youtube.com/watch?v=x7wGjMChW6k)  
