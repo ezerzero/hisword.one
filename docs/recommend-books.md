@@ -8,7 +8,7 @@
 
 ### 2012年10月11日《山上系列之一：为什么译介路德教会崇拜神学》
 
-我们将尽快翻译LSB中的Setting one部分，可以作为我们教会和越来越多向我提出帮助的教会和团契的主日程序。与此同时，除了LSB是必备教材以外，我在这里推荐所有关心和有志于研究路德教会崇拜神学的弟兄姐妹与慕道朋友，购买和借阅以下“必修教材”：1）Luther D. Reed: The Lutheran Liturgy—A Study of the Common liturgy of the Lutheran church in America，Philadelphia，Fortress，1947；2）Fred L. Preoht ed.: Lutheran Worship—History and Practice, Authorized by The Commission on Worship of the Lutheran Church—Missouri Synod，St. Louis: Concordia Publishing House；3）Just, Arthur. Heaven on Earth: The Gifts of Christ in the Divine Service，St. Louis: Concordia Publishing House, 2008; Edward Foley: From Age to Age—How Christian Have Celebrated the Eucharist, Chicago: Liturgy Training Publications,1991。
+我们将尽快翻译LSB中的Setting one部分，可以作为我们教会和越来越多向我提出帮助的教会和团契的主日程序。与此同时，除了LSB是必备教材以外，我在这里推荐所有关心和有志于研究路德教会崇拜神学的弟兄姐妹与慕道朋友，购买和借阅以下“必修教材”：1）Luther D. Reed: The Lutheran Liturgy—A Study of the Common liturgy of the Lutheran church in America，Philadelphia，Fortress，1947；2）Fred L. Preoht ed.: Lutheran Worship—History and Practice, Authorized by The Commission on Worship of the Lutheran Church—Missouri Synod，St. Louis: Concordia Publishing House；3）Just, Arthur. Heaven on Earth: The Gifts of Christ in the Divine Service，St. Louis: Concordia Publishing House, 2008; 4）Edward Foley: From Age to Age — How Christian Have Celebrated the Eucharist, Chicago: Liturgy Training Publications,1991。
 
 ### 2012年12月06日《问答与回应：“任不寐讲道很好，但是……”》问答3
 
@@ -30,26 +30,42 @@
 
 ### 悬崖系列荐书（闻道弟兄整理）
 
-1. David J. Valleskey：《We believe, therefore we speak: the theology and practice of evangelism》（Northwestern Pub. House, 1995）；
-2. Carl Ferdinand Wilhelm Walther (October 25, 1811 – May 7, 1887)《The Proper Distinction Between Law and Gospel》；
-3. Martin R. Noland: Walther and the Revival of Confessional Lutheranism, Concordia Theological Quarterly Vol 75 No 3-4 July/October 2011, p.196）；
-4. Albert B.Collver的论文Mission through Witness, Mercy, Life Together in Walther and the First  Fathers of Missouri；
-5. F. Pieper名著Christian Dogmatics涉及洗礼（Vol. III, P. 263-275）；
-6. John F. Parkinson，The Faith of God's Elect，《神选民的信心》；
-7. What Luther Says, A Practical In-Home Anthology for the Active Christian,Compiled by Edwald M. Plass,CPS,1994）；
-8. Harold L. Senkbeil，《Dying to Live, The Power of Forgiveness》, Concordia Publishing House, May 1, 1994.；
-9. David P. Scaer，《Baptism》(Confessional Lutheran dogmatics, the Luther Academy , St. Louise, Missouri, 1999；
+1. David J. Valleskey, We believe, therefore we speak: the theology and practice of evangelism, Northwestern Pub. House, 1995；
+2. Carl Ferdinand Wilhelm Walther, The Proper Distinction Between Law and Gospel；
+3. Martin R. Noland: Walther and the Revival of Confessional Lutheranism, Concordia Theological Quarterly Vol 75 No 3-4 July/October 2011, p.196；
+4. Albert B.Collver, Mission through Witness, Mercy, Life Together in Walther and the First  Fathers of Missouri；
+5. F. Pieper, Christian Dogmatics, Vol. III, P. 263-275；
+6. John F. Parkinson，The Faith of God's Elect；
+7. What Luther Says, A Practical In-Home Anthology for the Active Christian,Compiled by Edwald M. Plass,CPS,1994；
+8. Harold L. Senkbeil，Dying to Live, The Power of Forgiveness, Concordia Publishing House, May 1, 1994.；
+9. David P. Scaer，Baptism, Confessional Lutheran dogmatics, the Luther Academy , St. Louise, Missouri, 1999；
 10. the 1592 Saxon Visitation Articles
 
 ### 2014年06月18日《问答与回应：与路德神学院教授讨论路德及其改革（一）》 问答2
 
 >巴底买：无论有人愿意不愿意，无论他们高兴不高兴，这是一个基本事实，而且越来越清晰：不寐之夜正在改变汉语神学的基本结构和中国教会的既定观念。我和一些朋友有一个共同的想法，陆续翻译关于路德的经典传记作品，不知牧师有何推荐。
 
-平安。不敢掠美，这是Dr Cameron A. MacKenzie的推荐，愿与大家共享。Luther biographies: Bainton, Roland. Here I Stand；Haile, H. G. Luther: An Experiment in Biography；Kittelson, James. Luther the Reformer；Kolb, Robert. Martin Luther: Confessor of the Faith；Nohl, Frederick. Luther: Biography of a Reformer and Eugene Klug. Lift；High the Cross: The Theology of Martin Luther ；Oberman, Heiko. Luther: Man Between God and the Devil；Robinson, Paul, Martin Luther: A Life Reformed,；Scott H. Hendrix, Martin Luther: A Very Short Introduction；Schwiebert, E. G. Luther and His Times。
+平安。不敢掠美，这是Dr Cameron A. MacKenzie的推荐，愿与大家共享。
+Luther biographies: 
+Bainton, Roland. Here I Stand；
+Haile, H. G. Luther: An Experiment in Biography；
+Kittelson, James. Luther the Reformer；
+Kolb, Robert. Martin Luther: Confessor of the Faith；
+Nohl, Frederick. Luther: Biography of a Reformer
+Eugene Klug. Lift High the Cross: The Theology of Martin Luther；
+Oberman, Heiko. Luther: Man Between God and the Devil
+Robinson, Paul, Martin Luther: A Life Reformed；
+Scott H. Hendrix, Martin Luther: A Very Short Introduction；
+Schwiebert, E. G. Luther and His Times。
 
 ### 2014年9月8日《中国教会圣餐神学引论》
 
-以下是我们这个洗礼课程的参考书目，可以在网络上购买。1、Hermann Sasse, We Confess the Sacraments.  Trans. Norman E. Nagel.  St. Louis: Concordia, 1984；2、Hermann Sasse, The Lonely Way, vol. 1-2.  St. Louis: Concordia, 2001；3、John Armstrong ed., Understanding Four Views on the Lord’s Supper.  Zondervan, 2007；4、Hermann Sasse, This Is My Body, revised edition.  Adelaide: Lutheran Publishing House, 1977；5、Werner Elert, Eucharist and Church Fellowship in the First Four Centuries, trans. Norman E. Nagel,  St. Louis: Concordia, 1966.
+以下是我们这个洗礼课程的参考书目，可以在网络上购买。
+1、Hermann Sasse, We Confess the Sacraments. Trans. Norman E. Nagel. St. Louis: Concordia, 1984；
+2、Hermann Sasse, The Lonely Way, vol. 1-2. St. Louis: Concordia, 2001；
+3、John Armstrong ed., Understanding Four Views on the Lord’s Supper.  Zondervan, 2007；
+4、Hermann Sasse, This Is My Body, revised edition. Adelaide: Lutheran Publishing House, 1977；
+5、Werner Elert, Eucharist and Church Fellowship in the First Four Centuries, trans. Norman E. Nagel,  St. Louis: Concordia, 1966.
 
 ## 2014年福音之旅参考书目
 

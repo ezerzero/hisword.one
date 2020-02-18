@@ -21,3 +21,9 @@ CSMP（Chinese Specific Ministry Pastor）
 * [读经安排](/lectionary.md) 【主日及每天的读经安排】
 * [不寐之夜文章目录](/bmzy-index.md)
 * [不寐之夜推荐书目](/recommend-books.md)
+
+## 特别提醒
+
+* 本站最新可用网址会发布在[lutheran.cn](http://www.lutheran.cn)上
+* CSMP公众号会发送变更信息以及每个主日【一年系列】的读经安排
+![CSMP Info](http://img.hisword.cn/csmp_info_wechat_mp.jpg)
