@@ -6,9 +6,10 @@
 
 ## 友情提醒
 
-* 百度网盘的内容可能随时无法访问，如有需要请及时保存并下载到本地，推荐使用客户端[PanDownload](http://pandownload.com/)（如需下载所有文件，可能需要超级VIP才能顺利下载）或[https://www.baiduwp.com/](https://www.baiduwp.com/)（推荐使用）下载百度网盘中的文件。另外，从雅各书开始，建议下载文件名带“（MP3+PPT）”的视频。
+* 百度网盘的内容可能随时无法访问，如有需要请及时保存并下载到本地，推荐使用客户端[PanDownload](http://pandownload.com/)（如需下载所有文件，可能需要超级VIP才能顺利下载）或[https://www.baiduwp.com/](https://www.baiduwp.com/)（推荐使用）下载百度网盘中的文件。
 * 原文课程将继续使用Zoom，建议参加课程的弟兄姊妹学会[科学上网](https://haoel.github.io/)，继续使用国际版。
 * [http://www.csmp.xyz](http://www.csmp.xyz)，每周一早上更新圣经课程音频和PPT。
+* 从雅各书开始提供用PPT和经过剪辑的MP3合成的视频，大小的120M左右。
 
 ## 工具
 
@@ -55,6 +56,11 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * LSB Setting One中文音乐
   * 原文课程参考资料
   * 分享已被百度取消
+* [17_雅歌](https://pan.baidu.com/s/1c7aMP7KaScfpMUEnvEiSUA) 密码: mm3r
+  * 讲章
+  * 视频
+  * 音频
+  * PPT
 * [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 密码:p6xu
 * [马可福音（整理版）](https://pan.baidu.com/s/1k21RPagDL2t2SxvAeydaMA) 密码:toqr
 * [16_犹大书](https://pan.baidu.com/s/1wJgr6NpQpxFCaGnxJkYD3w)
