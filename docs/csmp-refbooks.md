@@ -52,6 +52,10 @@
 * [Word Biblical Commentary, Vol. 1: Genesis 1-15](https://www.amazon.com/dp/0849902002)
 * [Word Biblical Commentary Vol. 2, Genesis 16-50](https://www.amazon.com/dp/0849902010)
 
+### 雅歌
+
+* [The Song of Songs - Concordia Commentary](https://www.cph.org/p-683-song-of-songs-concordia-commentary.aspx)
+
 ## 新约
 
 ### 约翰福音
