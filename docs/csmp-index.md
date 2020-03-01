@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-02-28  |  [雅歌导论：春天，相爱在所罗门的廊下（1:1）](https://bmzy.montrealccc.com/2020-02-28-5832)  |  [雅歌导论：武汉屠城之时](https://www.youtube.com/watch?v=10cqI_ESTy8)  
 2020-02-21  |  [犹大书第七课：假神天罚与人类救赎（24-25）](https://bmzy.montrealccc.com/2020-02-21-5820)  |  [犹大书第七课：疫情的预测](https://www.youtube.com/watch?v=LT0n0uwveRw)  
 2020-02-14  |  [犹大书第六课：在末世灾变中的教会（17-23）](https://bmzy.montrealccc.com/2020-02-14-5816)  |  [犹大书第六课：武汉生化武器](https://www.youtube.com/watch?v=_j91fxdk7_U)  
 2020-02-09  |  [犹大书第五课：世界面临一场大审判（14-16）](https://bmzy.montrealccc.com/2020-02-07-5788)  |  [犹大书第五课：中国病毒起源](https://www.youtube.com/watch?v=5BUE_RWG_Lo)  
