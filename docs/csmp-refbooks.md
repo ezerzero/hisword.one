@@ -55,8 +55,6 @@
 ### 雅歌
 
 * [The Song of Songs - Concordia Commentary](https://www.cph.org/p-683-song-of-songs-concordia-commentary.aspx)
-* [Song of Songs (NEW INTERNATIONAL COMMENTARY ON THE OLD TESTAMENT)](https://www.amazon.com/dp/0802825435)
-* [Song of Songs (Wisdom Commentary Series)](https://www.amazon.com/dp/0814681247)
 
 ## 新约
 
