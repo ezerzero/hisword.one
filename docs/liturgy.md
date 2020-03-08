@@ -72,10 +72,11 @@
 
 ### 福音颂词（Alleluia and Verse）
 
-*平时唱哈利路亚颂（约翰福音6:68），Lent期间唱“归向耶和华我们的神”（约珥书2:13）*
-
 众：
+平时
 ![Alleluia](http://img.lectionary.cn/Alleluia.png)
+Lent节期
+![Alleluia](http://img.lectionary.cn/Lent.png)
 
 ### 福音经文（Holy Gospel）
 
