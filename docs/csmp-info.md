@@ -58,6 +58,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 
 ## 学习资料目录
 
+* [PPT版学习视频](https://pan.baidu.com/s/1XvIRHxzyavBoJVxo_9TlYA) 密码：m3xf
 * [CSMP原文课程](https://pan.baidu.com/s/1ZPt9z9TC-e0gKSqs6PsrFw)
   * 视频（每周四更新）
 * CSMP参考资料
@@ -70,7 +71,6 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 视频
   * 音频
   * PPT
-* [PPT版学习视频](https://pan.baidu.com/s/1XvIRHxzyavBoJVxo_9TlYA) 密码：m3xf
 * [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 密码:p6xu
 * [马可福音（整理版）](https://pan.baidu.com/s/1k21RPagDL2t2SxvAeydaMA) 密码:toqr
 * [16_犹大书](https://pan.baidu.com/s/1wJgr6NpQpxFCaGnxJkYD3w) 【分享已被百度取消】
