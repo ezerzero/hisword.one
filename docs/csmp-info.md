@@ -1,5 +1,13 @@
 # CSMP公开资料
 
+## 志愿者招募
+
+* 任牧师讲章校对
+* PPT版视频字幕校对
+* 音频剪辑
+
+对以上任何一项感兴趣的弟兄姊妹请发邮件至ezerchen@icloud.com。
+
 ## 通知
 
 * 2020年2月8日晚8点，原文课程复课。
@@ -17,6 +25,7 @@
 * 音频剪辑：[Audacity](https://www.audacityteam.org/)
 * 歌谱制作：[MuseScore](https://musescore.org/)
 * 字幕制作：[ArcTime](https://www.arctime.cn/)
+* 播放器：[PotPlayer](https://potplayer.daum.net/)
 
 ## 交流社群
 
