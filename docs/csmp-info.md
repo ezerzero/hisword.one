@@ -26,6 +26,7 @@
 * 歌谱制作：[MuseScore](https://musescore.org/)
 * 字幕制作：[ArcTime](https://www.arctime.cn/)
 * 播放器：[PotPlayer](https://potplayer.daum.net/)
+* 远程支持：[TeamViewer](https://www.teamviewer.com/)
 
 ## 交流社群
 
@@ -61,11 +62,10 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 * [PPT版学习视频](https://pan.baidu.com/s/1XvIRHxzyavBoJVxo_9TlYA) 密码：m3xf
 * [CSMP原文课程](https://pan.baidu.com/s/1ZPt9z9TC-e0gKSqs6PsrFw)
   * 视频（每周四更新）
-* CSMP参考资料
+* CSMP参考资料【分享已被取消】
   * 圣经课程参考视频
   * LSB Setting One中文音乐
   * 原文课程参考资料
-  * 分享已被百度取消
 * [17_雅歌](https://pan.baidu.com/s/1c7aMP7KaScfpMUEnvEiSUA) 密码: mm3r
   * 讲章
   * 视频
@@ -97,11 +97,10 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 * [00_使徒行传](https://pan.baidu.com/s/1sl79csP)
   * 音频
   * PPT
-* 01_2015年集训（摩西五经概论及利未记精读）
+* 01_2015年集训（摩西五经概论及利未记精读）【分享已被取消】
   * 视频
   * 音频
   * PPT
-  * 分享已被取消
 * [02_以赛亚书](https://pan.baidu.com/s/1miwTVyo)
   * 视频
   * 音频
@@ -135,7 +134,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 音频
   * 视频
   * PPT
-* [11_创世记1-11](https://pan.baidu.com/s/1_aKXu7a-cHwujcWsSWCABg)
+* 11_创世记1-11【分享已被取消】
   * 讲章
   * 视频
   * 音频

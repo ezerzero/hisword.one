@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-03-29  |  [雅歌第四课：复工与瘟疫之间的救赎（2:4-7）](https://bmzy.montrealccc.com/2020-03-27-5886)  |  [雅歌第四课：胜过中国病毒](https://www.youtube.com/watch?v=f01pvHr3KeQ)  
 2020-03-22  |  [雅歌第三课：返回应许之地和乐园（1:12-2:3）](https://bmzy.montrealccc.com/2020-03-20-5878)  |  [雅歌第三课：问责习状病毒](https://www.youtube.com/watch?v=eBViqzStsq4)  
 2020-03-15  |  [雅歌第二课：出埃及，在旷野侍奉神（1:5-11）](https://bmzy.montrealccc.com/2020-03-13-5861)  |  [雅歌第二课：病毒来自中国](https://www.youtube.com/watch?v=JImYjfGMNjw)  
 2020-03-08  |  [雅歌第一课：我们必因基督欢喜快乐（1:2-4）](https://bmzy.montrealccc.com/2020-03-06-5842)  |  [雅歌第一课：代替中国道歉](https://www.youtube.com/watch?v=Ah2iUH4QYdc)  
