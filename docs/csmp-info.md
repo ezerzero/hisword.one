@@ -6,11 +6,12 @@
 * PPT版视频字幕校对
 * 音频剪辑
 
-对以上任何一项感兴趣的弟兄姊妹请发邮件至ezerchen@icloud.com。
+对以上任何一项感兴趣并有时间参与的弟兄姊妹请发邮件至ezerchen@qq.com。
 
 ## 通知
 
 * 2020年2月8日晚8点，原文课程复课。
+* 最近又有5个文件夹被取消分享，未来将逐步弃用百度网盘。
 
 ## 友情提醒
 
@@ -27,6 +28,7 @@
 * 字幕制作：[ArcTime](https://www.arctime.cn/)
 * 播放器：[PotPlayer](https://potplayer.daum.net/)
 * 远程支持：[TeamViewer](https://www.teamviewer.com/)
+* LarkSuite：[LarkSuite](https://www.larksuite.com)
 
 ## 交流社群
 
@@ -73,7 +75,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * PPT
 * [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 密码:p6xu
 * [马可福音（整理版）](https://pan.baidu.com/s/1k21RPagDL2t2SxvAeydaMA) 密码:toqr
-* [16_犹大书](https://pan.baidu.com/s/1wJgr6NpQpxFCaGnxJkYD3w) 【分享已被百度取消】
+* 16_犹大书【分享已被百度取消】
   * 讲章
   * 视频
   * 音频
@@ -93,7 +95,6 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 视频
   * 音频
   * PPT
-* [CSMP申请表](https://pan.baidu.com/s/1o8v3VL4)（pdf表格，可直接填写）
 * [00_使徒行传](https://pan.baidu.com/s/1sl79csP)
   * 音频
   * PPT
@@ -101,7 +102,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 视频
   * 音频
   * PPT
-* [02_以赛亚书](https://pan.baidu.com/s/1miwTVyo)
+* 02_以赛亚书【分享已被取消】
   * 视频
   * 音频
   * PPT
@@ -130,7 +131,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 * 09_创世记12-36
   * [视频](https://pan.baidu.com/s/1iXUm11u6EEOUQ0ou6Yp6Yg)
   * [音频+PPT](https://pan.baidu.com/s/1EHh8AzmnvaBz3AkJiPXUMQ)
-* [10_2018年夏主日证道及以色列之旅](https://pan.baidu.com/s/1OrZN92a3ueW-EY1LHmugpA)
+* 10_2018年夏主日证道及以色列之旅【分享已被取消】
   * 音频
   * 视频
   * PPT
@@ -139,7 +140,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 视频
   * 音频
   * PPT
-* [12_创世记37-50](https://pan.baidu.com/s/1JUVuzfA-mtUGpK0VLxClMA)
+* 12_创世记37-50【分享已被取消】
   * 讲章
   * 视频
   * 音频
