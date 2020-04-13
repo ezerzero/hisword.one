@@ -21,6 +21,7 @@ CSMP（Chinese Specific Ministry Pastor）
 * [读经安排](/lectionary.md) 【主日及每天的读经安排】
 * [不寐之夜文章目录](/bmzy-index.md)
 * [不寐之夜推荐书目](/recommend-books.md)
+* [Zoom教程（CSMP圣经原文课程）](/zoom.md)
 
 ## 特别提醒
 
