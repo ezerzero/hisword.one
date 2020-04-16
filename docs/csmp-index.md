@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-04-12  |  [雅歌第六课：你们去告诉那个狐狸（2:14-17）](https://bmzy.montrealccc.com/2020-04-10-5894)  |  [雅歌第六课：擒拿粪坑先生](https://www.youtube.com/watch?v=edgc6PSa-Ro)
 2020-04-05  |  [雅歌第五课：复活，在活人中找春天（2:8-14）](https://bmzy.montrealccc.com/2020-04-03-5891)  |  [雅歌第五课：瘟疫何时结束](https://www.youtube.com/watch?v=1AX3ulCrHP0)
 2020-03-29  |  [雅歌第四课：复工与瘟疫之间的救赎（2:4-7）](https://bmzy.montrealccc.com/2020-03-27-5886)  |  [雅歌第四课：胜过中国病毒](https://www.youtube.com/watch?v=f01pvHr3KeQ)  
 2020-03-22  |  [雅歌第三课：返回应许之地和乐园（1:12-2:3）](https://bmzy.montrealccc.com/2020-03-20-5878)  |  [雅歌第三课：问责习状病毒](https://www.youtube.com/watch?v=eBViqzStsq4)  
