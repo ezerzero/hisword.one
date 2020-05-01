@@ -30,6 +30,7 @@
 * 播放器：[PotPlayer](https://potplayer.daum.net/)
 * 远程支持：[TeamViewer](https://www.teamviewer.com/)
 * 在线协作：[LarkSuite](https://www.larksuite.com)
+* Windows优质软件：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 ## 交流社群
 
