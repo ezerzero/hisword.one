@@ -4,7 +4,8 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
-2020-05-03  |  [雅歌第九课：何等美丽的肉身与两乳（4:1-7）](https://bmzy.montrealccc.com/2020-05-01-5956) |  [雅歌第就课：论爱你的仇敌](https://www.youtube.com/watch?v=dypjFto2HBE)
+2020-05-10  |  [雅歌第十课：亲爱的，你的爱在哪里（4:8-15）](https://bmzy.montrealccc.com/2020-05-08-5971) |  [雅歌第十课：论一切交给神](https://www.youtube.com/watch?v=U9YtJL7uR2s)
+2020-05-03  |  [雅歌第九课：何等美丽的肉身与两乳（4:1-7）](https://bmzy.montrealccc.com/2020-05-01-5956) |  [雅歌第九课：论爱你的仇敌](https://www.youtube.com/watch?v=dypjFto2HBE)
 2020-04-26  |  [雅歌第八课：瘟疫终结后的一场婚礼（3:6-11）](https://bmzy.montrealccc.com/2020-04-24-5948) |  [雅歌第八课：论顺服掌权者](https://www.youtube.com/watch?v=YePUBQxVg2M)
 2020-04-19  |  [雅歌第七课：你们寻找的，就被寻见（3:1-5）](https://bmzy.montrealccc.com/2020-04-17-5925) |  [雅歌第七课：疫后世界新局](https://www.youtube.com/watch?v=NLm-O9aYW08)
 2020-04-12  |  [雅歌第六课：你们去告诉那个狐狸（2:14-17）](https://bmzy.montrealccc.com/2020-04-10-5894)  |  [雅歌第六课：擒拿粪坑先生](https://www.youtube.com/watch?v=edgc6PSa-Ro)
