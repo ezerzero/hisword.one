@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-05-17  |  [雅歌第十一课：灵恩派的邪教本质（4:16-5:1）](https://bmzy.montrealccc.com/2020-05-15-5986) |  [雅歌第十一课：论灵恩派邪教](https://www.youtube.com/watch?v=m59KwV0-4Zc)
 2020-05-10  |  [雅歌第十课：亲爱的，你的爱在哪里（4:8-15）](https://bmzy.montrealccc.com/2020-05-08-5971) |  [雅歌第十课：论一切交给神](https://www.youtube.com/watch?v=U9YtJL7uR2s)
 2020-05-03  |  [雅歌第九课：何等美丽的肉身与两乳（4:1-7）](https://bmzy.montrealccc.com/2020-05-01-5956) |  [雅歌第九课：论爱你的仇敌](https://www.youtube.com/watch?v=dypjFto2HBE)
 2020-04-26  |  [雅歌第八课：瘟疫终结后的一场婚礼（3:6-11）](https://bmzy.montrealccc.com/2020-04-24-5948) |  [雅歌第八课：论顺服掌权者](https://www.youtube.com/watch?v=YePUBQxVg2M)
