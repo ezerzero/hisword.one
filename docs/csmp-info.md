@@ -70,7 +70,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 圣经课程参考视频
   * LSB Setting One中文音乐
   * 原文课程参考资料
-* [17_雅歌](https://pan.baidu.com/s/1c7aMP7KaScfpMUEnvEiSUA) 密码: mm3r
+* 17_雅歌【分享已被取消】
   * 讲章
   * 视频
   * 音频
@@ -108,7 +108,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 视频
   * 音频
   * PPT
-* [03_箴言](https://pan.baidu.com/s/1skXbp29)
+* 03_箴言【分享已被取消】
   * 视频
   * 音频
   * PPT
@@ -126,7 +126,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 视频
   * 音频
   * PPT
-* [08_协同书](https://pan.baidu.com/s/1miHSCn2)
+* 08_协同书【分享已被取消】
   * 视频
   * 音频
   * PPT
