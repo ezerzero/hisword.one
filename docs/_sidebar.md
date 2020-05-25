@@ -9,5 +9,7 @@
 * [坚信礼](/confirmation.md  "坚信礼程序")
 * [读经安排](/lectionary.md  "读经安排")
 * [不寐之夜博文目录](/bmzy-index.md "不寐之夜博文目录")
+* [路德教会中国教区（CCLC）的异象](/cclc.md "CCLC的异象")
+* [CCLC徽章草案](/cclc_logo.md "CCLC徽章草案")
 * [不寐之夜推荐书目](/recommend-books.md  "推荐书目")
 * [Zoom教程（CSMP圣经原文课程）](/zoom.md  "Zoom教程")

@@ -19,6 +19,8 @@ CSMP（Chinese Specific Ministry Pastor）
 * [圣洗礼程序](/holy-baptism.md)
 * [坚信礼程序](/confirmation.md)
 * [读经安排](/lectionary.md) 【主日及每天的读经安排】
+* [路德教会中国教区（CCLC）的异象](/cclc.md)
+* [CCLC徽章草案](/cclc_logo.md)
 * [不寐之夜文章目录](/bmzy-index.md)
 * [不寐之夜推荐书目](/recommend-books.md)
 * [Zoom教程（CSMP圣经原文课程）](/zoom.md)
