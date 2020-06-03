@@ -100,7 +100,7 @@ CSMP以路德教会（LC-MS）相关教程为参考，但以“紧急建立教�
 
 8、CSMP系列课程每三年一届，会坚持到授课牧师“安息主怀”那一天。CSMP接受各种奉献支持，但限于来自基督徒的奉献。
 
-## 附录1：[CSMP在线名表](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZPcBfxURDA5RU0yMFNVSDBGQzRFTkNRVlZMVFlJNy4u)
+## 附录1：[CSMP报名表](http://media.hisword.cn/CSMP-Application-Form.pdf)
 
 ## 附录2：CCLC按牧五项基本条件
 
