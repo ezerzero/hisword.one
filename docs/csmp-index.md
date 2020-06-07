@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-06-07  |  [雅歌第十四课：你头上的发是紫黑色（7:1-9）](https://bmzy.montrealccc.com/2020-06-05-6040) |  [雅歌第十四课：基督要回来了](https://www.youtube.com/watch?v=fS9skrSA4eM)
 2020-05-31  |  [雅歌第十三课：基督、教会与全世界（6:1-13）](https://bmzy.montrealccc.com/2020-05-29-6026) |  [雅歌第十三课：女牧黑牧六四](https://www.youtube.com/watch?v=UR9d1f8Sq5k)
 2020-05-24  |  [雅歌第十二课：中国病毒之下的爱情（5:2-16）](https://bmzy.montrealccc.com/2020-05-22-5994) |  [雅歌第十二课：香港香港香港](https://www.youtube.com/watch?v=ocKvG9-96Fg)
 2020-05-17  |  [雅歌第十一课：灵恩派的邪教本质（4:16-5:1）](https://bmzy.montrealccc.com/2020-05-15-5986) |  [雅歌第十一课：论灵恩派邪教](https://www.youtube.com/watch?v=m59KwV0-4Zc)
