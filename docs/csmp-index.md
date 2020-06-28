@@ -4,6 +4,8 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-06-28  |  [雅歌第十七课：2020年，提亲日战争（8:8-10）](https://bmzy.montrealccc.com/2020-06-26-6107)  |  [雅歌第十七课：🇨中共99年哀歌](https://www.youtube.com/watch?v=DpFr9tLZM90)
+2020-06-21  |  [雅歌第十六课：非政治教义是撒但教（8:5-7）](https://bmzy.montrealccc.com/2020-06-19-6086)  |  [雅歌第十六课：教会重新出发](https://www.youtube.com/watch?v=jlL7rdAYwcA)
 2020-06-14  |  [雅歌第十五课：巴不得你像我兄弟（7:10-8:4）](https://bmzy.montrealccc.com/2020-06-12-6067)  |  [雅歌第十五课：习近平这个人](https://www.youtube.com/watch?v=u9P5NC-skE8)
 2020-06-07  |  [雅歌第十四课：你头上的发是紫黑色（7:1-9）](https://bmzy.montrealccc.com/2020-06-05-6040) |  [雅歌第十四课：基督要回来了](https://www.youtube.com/watch?v=fS9skrSA4eM)
 2020-05-31  |  [雅歌第十三课：基督、教会与全世界（6:1-13）](https://bmzy.montrealccc.com/2020-05-29-6026) |  [雅歌第十三课：女牧黑牧六四](https://www.youtube.com/watch?v=UR9d1f8Sq5k)
