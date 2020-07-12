@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-07-11  |  [2020年夏季集训或圣经问答第一讲：论罪的起源](https://www.bumeizhiye.com/2020-07-09-6126)  |  [2020年夏季集训或圣经问答第一讲：习近平的结局](https://www.youtube.com/watch?v=2WwNVHf3bSc)
 2020-07-04  |  [雅歌第十八课：我的良人，求你快来（8:11-14）](https://www.bumeizhiye.com/2020-07-02-6115)  |  [雅歌第十八课：习近平的婚姻](https://www.youtube.com/watch?v=ARpzcDtvXFc)
 2020-06-28  |  [雅歌第十七课：2020年，提亲日战争（8:8-10）](https://www.bumeizhiye.com/2020-06-26-6107)  |  [雅歌第十七课：中共99年哀歌](https://www.youtube.com/watch?v=DpFr9tLZM90)
 2020-06-21  |  [雅歌第十六课：非政治教义是撒但教（8:5-7）](https://www.bumeizhiye.com/2020-06-19-6086)  |  [雅歌第十六课：教会重新出发](https://www.youtube.com/watch?v=jlL7rdAYwcA)
