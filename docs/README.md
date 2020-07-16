@@ -8,7 +8,7 @@ CSMP（Chinese Specific Ministry Pastor）
 
 [第二届CSMP招生简章](/csmp-2nd)
 
-说明：第二届（2018年9月开学，详情见招生简章）还可以继续报名，但是需要补交之前的[所有作业](./csmp-exam-2nd.md)【原文课程作业报名牧师的学员必须交】。请将[报名表](http://media.hisword.cn/CSMP-Application-Form.pdf)填好后发给任牧师。
+说明：第二届（2018年9月开学，详情见招生简章）还可以继续报名【2020年7月11日后不再接受新的申请】，但是需要补交之前的[所有作业](./csmp-exam-2nd.md)【原文课程作业报名牧师的学员必须交】。请将[报名表](http://media.hisword.cn/CSMP-Application-Form.pdf)填好后发给任牧师。
 
 * [CSMP公开资料](/csmp-info.md) 【课程相关信息，资料下载链接等】
 * [CSMP课程目录](/csmp-index.md) 【证道讲章和视频的链接】
