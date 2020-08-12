@@ -8,7 +8,7 @@
 ## 友情提醒
 
 * [http://www.csmp.xyz](http://www.csmp.xyz)，每周一早上更新圣经课程音频和PPT。
-* 以往的雅歌课程见：[http://thesong.hisword.cn](http://thesong.hisword.cn)
+* 完整的雅歌课程见：[http://thesong.hisword.cn](http://thesong.hisword.cn)
 
 ## 交流社群
 
@@ -17,6 +17,7 @@
 手机系统要求：Android 6.0以上、iOS 11.0以上
 
 安卓用户如果不能顺利访问Google Play，可以在[官网](https://mixin.one/messenger)下载安装包。
+
 iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；海外用户从app store安装“Mixin Messenger”即可。
 
 另外，Mixin Messenger还有桌面版，桌面版支持MacOS，WindowsX64等。
@@ -27,17 +28,19 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 
 * [CSMP圣经课程在线视频](https://www.youtube.com/channel/UC2MgB-upjmPWAP_p7hdk_MQ)（在中国大陆需科学上网才能打开）
 * [OneDrive](https://1drv.ms/f/s!AgnuHY2oXaZp_HPkjxIc4fSR_hRc)（音频+PPT+原文课程视频+补充视频）
-* Windows10用户应该可以顺利访问OneDrive
-* 无法访问OneDrive的报名学员请在Mixin Messenger中添加联系人“7000103042”，发送你的报名邮箱
+* Windows10用户可以通过桌面客户端访问OneDrive
+* 无法访问OneDrive的报名学员请在[Mixin Messenger](https://mixin.one/messenger)中添加联系人“7000103042”，发送你的报名邮箱
 
 ## 工具
 
+* 视频剪辑：[ShotCut](https://shotcut.org/)
 * 视频压缩：[HandBrake](https://handbrake.fr/)
 * 音频剪辑：[Audacity](https://www.audacityteam.org/)
 * 歌谱制作：[MuseScore](https://musescore.org/)
 * 字幕制作：[ArcTime](https://www.arctime.cn/)
 * 播放器：[PotPlayer](https://potplayer.daum.net/)
 * 远程支持：[TeamViewer](https://www.teamviewer.com/)
+* 浏览器：[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 * 在线协作：[LarkSuite](https://www.larksuite.com)
 * Windows优质软件：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
@@ -53,8 +56,9 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 ## 学习资料目录
 
 * PPT版学习视频
-* CSMP原文课程
+* [CSMP原文课程](https://pan.baidu.com/s/1ZPt9z9TC-e0gKSqs6PsrFw)
   * 视频（周日更新）
+* 18_2020年夏季集训
 * 17_雅歌
 * [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 密码:p6xu
 * [马可福音（整理版）](https://pan.baidu.com/s/1k21RPagDL2t2SxvAeydaMA) 密码:toqr
@@ -75,7 +79,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 * 10_2018年夏主日证道及以色列之旅
 * 11_创世记1-11
 * 12_创世记37-50
-* 学习资源（仅OneDrive，海外）
+* 学习资源
   * 圣经（PDF版）
   * Concordia Triglotta（拉丁语、德语、英语对照）
   * 十二使徒遗训
