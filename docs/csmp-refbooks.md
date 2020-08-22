@@ -4,7 +4,7 @@
 
 * [The UBS Greek New Testament: Reader's Edition with Textual Notes](http://www.amazon.com/dp/1598566342)
 * [Biblia Hebraica Stuttgartensia: A Reader's Edition](http://www.amazon.com/dp/1598563424)
-* [Novum Testamentum Graece-FL (Greek Edition)](http://www.amazon.com/dp/3438051400)
+* [Greek New Testament, 28th Edition](https://www.amazon.com/dp/3438051583)
 * [Hebrew Bible-FL (Hebrew Edition)](http://www.amazon.com/dp/1598561626)
 * [Grammatical Analysis of the Greek New Testament](https://www.amazon.com/dp/8876536515)
 * [New Testament Greek: An Introduction](http://www.amazon.com/dp/0521177022)
@@ -93,6 +93,12 @@
 ### 犹大书
 
 * [2 Peter and Jude - Concordia Commentary](https://www.amazon.com/dp/0758606966)
+
+### 启示录
+
+* [The Book of Revelation (New International Greek Testament Commentary)](https://www.amazon.com/dp/080282174X)
+* [Revelation (Concordia Commentary)](https://www.amazon.com/dp/0570063124)
+* [The Revelation to John: A Commentary on the Greek Text of the Apocalypse](https://www.amazon.com/dp/0830829245)
 
 ## 协同书
 

@@ -4,6 +4,8 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-08-22  |  [2020年夏季集训或圣经问答第六讲：罗斯的浸礼](https://www.bumeizhiye.com/2020-08-20-6197)  |  [2020年夏季集训或圣经问答第六讲：论因信称义](https://www.youtube.com/watch?v=RUbALgBAsjU)
+2020-08-15  |  [2020年夏季集训或圣经问答第五讲：走向启示录](https://www.bumeizhiye.com/2020-08-13-6187)  |  [2020年夏季集训或圣经问答第五讲：亡习必港](https://www.youtube.com/watch?v=flafzfX_EZ8)
 2020-08-08  |  [2020年夏季集训或圣经问答第四讲：论华人教会](https://www.bumeizhiye.com/2020-08-06-6180)  |  [2020年夏季集训或圣经问答第四讲：北戴河黑会](https://www.youtube.com/watch?v=03RK5RLRNK0)
 2020-08-01  |  [2020年夏季集训或圣经问答第三讲：乐园在关门](https://www.bumeizhiye.com/2020-07-30-6170)  |  [2020年夏季集训或圣经问答第三讲：羞辱李克强](https://www.youtube.com/watch?v=pFgAWN0xFu4)
 2020-07-18  |  [2020年夏季集训或圣经问答第二讲：圣礼型教会](https://www.bumeizhiye.com/2020-07-15-6143)  |  [2020年夏季集训或圣经问答第二讲：水淹包子铺](https://www.youtube.com/watch?v=W_GvnWUmJlI)
