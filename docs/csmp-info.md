@@ -4,6 +4,7 @@
 
 * 目前原文课程时间为北京时间每周六晚上8点，[Zoom](/zoom.md)平台授课。。
 * 2020年5月25日开始百度网盘上的课程资料不再更新。
+* 所有课程课程资料已转移至[LarkSuite](https://www.larksuite.com/download) ，报名学员加入请发邮件至ezerchen@qq.com
 
 ## 友情提醒
 
@@ -26,10 +27,8 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 
 ## 特别说明
 
-* [CSMP圣经课程在线视频](https://www.youtube.com/channel/UC2MgB-upjmPWAP_p7hdk_MQ)（在中国大陆需科学上网才能打开）
-* [OneDrive](https://1drv.ms/f/s!AgnuHY2oXaZp_HPkjxIc4fSR_hRc)（音频+PPT+原文课程视频+补充视频）
-* Windows10用户可以通过桌面客户端访问OneDrive
-* 无法访问OneDrive的报名学员请在[Mixin Messenger](https://mixin.one/messenger)中添加联系人“7000103042”，发送你的报名邮箱
+* [CSMP圣经课程Youtube频道](https://www.youtube.com/channel/UC2MgB-upjmPWAP_p7hdk_MQ)（在中国大陆需科学上网才能打开）
+* [OneDrive上的课程资料](https://1drv.ms/f/s!AgnuHY2oXaZp_HPkjxIc4fSR_hRc)
 
 ## 工具
 
@@ -40,8 +39,8 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 * 字幕制作：[ArcTime](https://www.arctime.cn/)
 * 播放器：[PotPlayer](https://potplayer.daum.net/)
 * 远程支持：[TeamViewer](https://www.teamviewer.com/)
-* 浏览器：[Chrome](https://www.google.com/intl/zh-CN/chrome/)
-* 在线协作：[LarkSuite](https://www.larksuite.com)
+* 浏览器：[Chrome浏览器](https://dl.pconline.com.cn/download/51614.html)
+* 在线协作：[LarkSuite](https://www.larksuite.com/download)
 * Windows优质软件：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 ## 考试题汇编
@@ -55,13 +54,13 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 
 ## 学习资料目录
 
-* PPT版学习视频
+* [PPT版学习视频](https://pan.baidu.com/s/1XvIRHxzyavBoJVxo_9TlYA) 提取码:m3xf
 * [CSMP原文课程](https://pan.baidu.com/s/1ZPt9z9TC-e0gKSqs6PsrFw)
   * 视频（周日更新）
 * 18_2020年夏季集训
 * 17_雅歌
-* [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 密码:p6xu
-* [马可福音（整理版）](https://pan.baidu.com/s/1k21RPagDL2t2SxvAeydaMA) 密码:toqr
+* [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 提取码:p6xu
+* [马可福音（整理版）](https://pan.baidu.com/s/1k21RPagDL2t2SxvAeydaMA) 提取码:toqr
 * 16_犹大书
 * 15_少年人的圣经课程【概论部分】
 * 14_雅各书
