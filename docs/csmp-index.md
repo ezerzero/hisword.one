@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-09-05  |  [启示录导论：那人，你从哪里来，要往哪里去？](https://www.bumeizhiye.com/2020-09-03-6204)  |  [启示录导论：天国近了](https://www.youtube.com/watch?v=qWJZZORv840)
 2020-08-29  |  [2020年夏季集训或圣经问答第七讲：骗子与地狱](https://www.bumeizhiye.com/2020-08-27-6201)  |  [2020年夏季集训或圣经问答第七讲：启示录引论](https://www.youtube.com/watch?v=AB9hY9iPaqw)
 2020-08-22  |  [2020年夏季集训或圣经问答第六讲：罗斯的浸礼](https://www.bumeizhiye.com/2020-08-20-6197)  |  [2020年夏季集训或圣经问答第六讲：论因信称义](https://www.youtube.com/watch?v=RUbALgBAsjU)
 2020-08-15  |  [2020年夏季集训或圣经问答第五讲：走向启示录](https://www.bumeizhiye.com/2020-08-13-6187)  |  [2020年夏季集训或圣经问答第五讲：亡习必港](https://www.youtube.com/watch?v=flafzfX_EZ8)

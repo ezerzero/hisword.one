@@ -99,6 +99,8 @@
 * [The Book of Revelation (New International Greek Testament Commentary)](https://www.amazon.com/dp/080282174X)
 * [Revelation (Concordia Commentary)](https://www.amazon.com/dp/0570063124)
 * [The Revelation to John: A Commentary on the Greek Text of the Apocalypse](https://www.amazon.com/dp/0830829245)
+* [A Commentary On The Apocalypse Of The Blessed John](https://www.amazon.com/dp/1162658193)
+* [Four Views on the Book of Revelation](https://www.amazon.com/dp/B003TFE8MY)
 
 ## 协同书
 

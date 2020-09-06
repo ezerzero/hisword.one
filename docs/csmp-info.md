@@ -41,6 +41,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 * 远程支持：[TeamViewer](https://www.teamviewer.com/)
 * 浏览器：[Chrome浏览器](https://dl.pconline.com.cn/download/51614.html)
 * 在线协作：[LarkSuite](https://www.larksuite.com/download)
+* 在线匿名语言聊天：[Mornin](https://mornin.fm)
 * Windows优质软件：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 ## 考试题汇编
@@ -55,12 +56,14 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 ## 学习资料目录
 
 * [PPT版学习视频](https://pan.baidu.com/s/1XvIRHxzyavBoJVxo_9TlYA) 提取码:m3xf
+  * 雅歌
+  * 马可福音
 * [CSMP原文课程](https://pan.baidu.com/s/1ZPt9z9TC-e0gKSqs6PsrFw)
   * 视频（周日更新）
+* 19_启示录
 * 18_2020年夏季集训
 * 17_雅歌
 * [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 提取码:p6xu
-* [马可福音（整理版）](https://pan.baidu.com/s/1k21RPagDL2t2SxvAeydaMA) 提取码:toqr
 * 16_犹大书
 * 15_少年人的圣经课程【概论部分】
 * 14_雅各书
