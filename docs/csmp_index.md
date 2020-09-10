@@ -117,7 +117,7 @@
 2018-08-31  |  [主日证道：两种心学的致命对立（可7:18-23）](https://www.bumeizhiye.com/2018-08-31-4932)  |  [主日证道：人心](https://www.youtube.com/watch?v=CFeX15fAXX4)
 2018-08-25  |  [主日证道：这极大的奥秘（以弗所书5:22-33）](https://www.bumeizhiye.com/2018-08-25-4931)  |  [主日证道：夫妻](https://www.youtube.com/watch?v=eV95kVyisHE)
 2018-08-17  |  [主日证道：你们是世上的光（以弗所书5:6-13）](https://www.bumeizhiye.com/2018-08-17-4911)  |  [主日证道：第一天](https://www.youtube.com/watch?v=MHC7jTABnzc)
-2018-08-08  |  [主日证道：在世界之王面前（列王记上19:1-8）](https://www.bumeizhiye.com/2018-08-08-4899)  |  [主日证道：政治](https://www.youtube.com/watch?v=pJDY-4Thy-Y)
+2018-08-08  |  [主日证道：在世界之王面前（列王纪上19:1-8）](https://www.bumeizhiye.com/2018-08-08-4899)  |  [主日证道：政治](https://www.youtube.com/watch?v=pJDY-4Thy-Y)
 2018-07-29  |  [主日证道：耶稣在水面之上行走（可6:45-52）](https://www.bumeizhiye.com/2018-07-29-4892)  |  [主日证道：水上基督](https://www.youtube.com/watch?v=x1pLHVT64ZY)
 2018-07-15  |  [主日证道：五饼二鱼喂饱五千人（可6:30-44）](https://www.bumeizhiye.com/2018-07-15-4887)  |  [主日证道：拿撒勒人](https://www.youtube.com/watch?v=5KTrMNmtDzE)
 2018-07-04  |  [主日证道：医什么病，赶什么鬼（可6:7-13）](https://www.bumeizhiye.com/2018-07-04-4884)  |  [主日证道：医病赶鬼](https://www.youtube.com/watch?v=Ka18LIzw4Xo)

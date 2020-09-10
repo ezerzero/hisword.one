@@ -11,7 +11,6 @@ CSMP（Chinese Specific Ministry Pastor）
 说明：第二届（2018年9月开学，详情见招生简章）还可以继续报名【2020年7月11日后不再接受新的申请】，但是需要补交之前的[所有作业](./csmp-exam-2nd.md)【原文课程作业报名牧师的学员必须交】。请将[报名表](http://media.hisword.cn/CSMP-Application-Form.pdf)填好后发给任牧师。
 
 * [CSMP公开资料](/csmp-info.md) 【课程相关信息，资料下载链接等】
-* [CSMP课程目录](/csmp-index.md) 【证道讲章和视频的链接】
 * [CSMP课程讲章](/sermon.md) 【圣经课程讲章，可在线阅读】
 * [CSMP参考书目](/csmp-refbooks.md)
 * [主日聚会程序](/liturgy.md)
@@ -21,7 +20,6 @@ CSMP（Chinese Specific Ministry Pastor）
 * [读经安排](/lectionary.md) 【主日及每天的读经安排】
 * [路德教会中国教区（CCLC）的异象](/cclc.md)
 * [CCLC徽章草案](/cclc_logo.md)
-* [不寐之夜文章目录](/bmzy-index.md)
 * [不寐之夜推荐书目](/recommend-books.md)
 * [Zoom教程（CSMP圣经原文课程）](/zoom.md)
 
