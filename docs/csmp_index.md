@@ -4,7 +4,9 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
-2020-10-17  |  [启示录第六课：一个宝座安置在天上（4:1-5）](https://www.bumeizhiye.com/2020-10-15-6252)  |  [启示录第六课：天位](https://www.youtube.com/watch?v=FvBpN9RSpEE)
+2020-10-31  |  [启示录第八课：羔羊站立，祂曾被杀（5:1-14）](https://www.bumeizhiye.com/2020-10-29-6265)  |  [启示录第八课：大选之后](https://www.youtube.com/watch?v=m1YRmMW35rQ)  
+2020-10-24  |  [启示录第七课：宝座周围有四个活物（4:6-11）](https://www.bumeizhiye.com/2020-10-22-6260)  |  [启示录第七课：大选](https://www.youtube.com/watch?v=rrPemU3Vjic)  
+2020-10-17  |  [启示录第六课：一个宝座安置在天上（4:1-5）](https://www.bumeizhiye.com/2020-10-15-6252)  |  [启示录第六课：天位](https://www.youtube.com/watch?v=FvBpN9RSpEE)  
 2020-10-10  |  [启示录第五课：这世代的新教改革C（3:1-22）](https://www.bumeizhiye.com/2020-10-08-6248)  |  [启示录第五课：新教改革C](https://www.youtube.com/watch?v=7kZkrbjUDz0)
 2020-10-03  |  [启示录第四课：这世代的新教改革B（2:18-29）](https://www.bumeizhiye.com/2020-10-01-6236)  |  [启示录第四课：新教改革B](https://www.youtube.com/watch?v=BTQCCtB6TEg)
 2020-09-26  |  [启示录第三课：这世代的新教改革A（2:1-17）](https://www.bumeizhiye.com/2020-09-24-6232)  |  [启示录第三课：新教改革A](https://www.youtube.com/watch?v=5esSWr6dXV8)
