@@ -309,7 +309,7 @@ Ps. 118:26a, 27a, 23
   
 ### VERSE  
 Liturgical Text  
-Alleluia. A holy day has dawned upon us. Come, all you nations, and worship the Lord. Alleluia.  
+哈里路亚！圣洁的一天如同晨曦临到我们，万民，齐来敬拜主。哈里路亚！  
   
   
 ## First Sunday after Christmas  
@@ -1733,7 +1733,7 @@ they shall be jubilant with joy! Alle- | luia.
 主的灵充满世界。哈利｜路亚  
 唯有义人必然｜欢喜  
 在神面前高兴｜快乐  
-他们要因喜乐而欢呼。哈利｜路亚  
+他们必喜乐欢呼。哈利｜路亚  
   
 ### COLLECT OF THE DAY  
 O God, on this day You once taught the hearts of Your faithful people by sending them the light of Your Holy Spirit. Grant us in our day by the same Spirit to have a right understanding in all things and evermore to rejoice in His holy consolation; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.(L50)  
@@ -2348,7 +2348,7 @@ Ps. 68:1, 3, 7a, 10b, 19; antiphon: Ps. 68:5b, 6a, 35b
   
 ### COLLECT OF THE DAY  
 Almighty and everlasting God, always more ready to hear than we to pray and to give more than we either desire or deserve, pour down upon us the abundance of Your mercy, forgiving those things of which our conscience is afraid and giving us those good things that we are not worthy to ask, except through the merits and mediation of Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.(H71)  
-你在我们不会祷告的时候就听我们的祷告，在我们没有渴望和我们不配的时候，你给我们超乎我们所求所想，求你施丰盛的恩慈给我们，你因而赦免我们良心恐惧的事，给我们的美善是我们不配求的，全是因为耶稣我们主的工和中保，奉耶稣基督的名，他永远活着，与你和圣灵同掌权柄，同是一位上帝，从今时直到永远。
+权能和永恒的神啊，你在我们不会祷告的时候就听我们的祷告，在我们没有渴望和我们不配的时候，你给我们超乎我们所求所想，求你施丰盛的恩慈给我们，你因而赦免我们良心恐惧的事，给我们的美善是我们不配求的，全是因为耶稣我们主的工和中保，奉耶稣基督的名，他永远活着，与你和圣灵同掌权柄，同是一位上帝，从今时直到永远。
   
 ### READINGS  
 创世记4:1-15  
@@ -2802,10 +2802,10 @@ Ps. 48:1, 9–11; antiphon: Liturgical Text
 锡安山应当欢喜，犹大的城邑应当｜快乐  
 荣耀归于圣父圣子｜圣灵  
 从起初到今时直到永远｜阿们  
-在祂对我们所做的一切中，主是公｜义的  
-因为我们没有遵行祂的｜命令  
-主啊，荣耀你｜的名  
-照你的大怜悯对待｜我们  
+凡主向我们所行的事，他全然｜公义
+因为我们没有遵守他的｜诫命
+主，荣耀你｜的名
+求你按照你伟大的恩慈对待｜我们  
   
 ### COLLECT OF THE DAY  
 O Lord, grant to Your faithful people pardon and peace that they may be cleansed from all their sins and serve You with a quiet mind; through Jesus Christ, Your son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever.(H80)  
