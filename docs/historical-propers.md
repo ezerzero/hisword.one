@@ -3189,7 +3189,8 @@ Rev. 21:2
   
   
 ## New Year’s Eve  
-December 31  
+12月31日  
+
 The Eve of the Circumcision and Name of Jesus may also be observed  
 on December 31 using the propers from the Circumcision and Name of  
 Jesus (January 1) beginning on the following page.  
@@ -3236,9 +3237,8 @@ Ps. 90:12, 14
 Ps. 103:17a  
 哈利路亚！耶和华的慈爱归于敬畏他的人，从亘古到永远。哈利路亚！  
   
-  
 ## Circumcision and Name of Jesus  
-January 1  
+1月1日  
   
 ### Color  
 白色  
@@ -3284,9 +3284,8 @@ Heb. 8:10; 10:17
 Matt. 1:21  
 哈利路亚。她将要生一个儿子，你要给他起名叫耶稣，因他要将自己的百姓从罪恶里救出来。哈利路亚。  
   
-  
 ## The Purification of Mary and the Presentation of Our Lord  
-February 2  
+2月2日  
   
 ### Color  
 白色  
@@ -3336,13 +3335,9 @@ Luke 2:34b
   
   
 ## The Annunciation of Our Lord  
-March 25  
-It is appropriate to observe this feast day in all its fullness  
-during Lent. However, according to historical precedent, when the  
-Annunciation falls during Holy Week or on Easter Day (or also on  
-the Fifth Sunday in Lent in the One-year Series), it should not be  
-observed at those times but may be transferred to a weekday  
-following the Second Sunday of Easter.  
+3月25日
+
+It is appropriate to observe this feast day in all its fullness during Lent. However, according to historical precedent, when the Annunciation falls during Holy Week or on Easter Day (or also on the Fifth Sunday in Lent in the One-year Series), it should not be observed at those times but may be transferred to a weekday following the Second Sunday of Easter.  
   
 ### Color  
 白色  
@@ -3393,7 +3388,7 @@ prepared in the presence of all peoples.
   
   
 ## The Visitation  
-July 2  
+7月2日  
   
 ### Color  
 白色  
@@ -3445,7 +3440,7 @@ Luke 1:45
   
   
 ## The Nativity of St. John the Baptist  
-June 24  
+6月24日  
   
 ### Color  
 白色  
@@ -3495,7 +3490,7 @@ Luke 1:17a, d
   
   
 ## St. Michael and All Angels  
-September 29  
+9月29日  
   
 ### Color  
 白色  
@@ -3541,7 +3536,7 @@ Rev. 12:11
   
   
 ## Reformation Day  
-October 31  
+10月31日  
   
 ### Color  
 红色  
@@ -3591,7 +3586,7 @@ Luke 12:32
   
   
 ## All Saints’ Day  
-November 1  
+11月1日  
   
 ### Color  
 白色  

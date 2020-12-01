@@ -4,6 +4,10 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-11-26  |  [启示录第十二课：这些穿白衣的是谁（7:9-17）](https://www.bumeizhiye.com/2020-11-26-6290)  |  [启示录第十二课：白衣川普](https://www.youtube.com/watch?v=YVangbUtrWU)
+2020-11-19  |  [启示录第十一课：以色列十二支派受印（7:1-8）](https://www.bumeizhiye.com/2020-11-19-6284)  |  [启示录第十一课：特种部队](https://www.youtube.com/watch?v=_cAkCrBhJgE)
+2020-11-12  |  [启示录第十课：伸冤在神，祂必报应（6:9-17）](https://www.bumeizhiye.com/2020-11-12-6280)  |  [启示录第十课：审判拜登](https://www.youtube.com/watch?v=57eueg6XsRQ)
+2020-11-05  |  [启示录第九课：群魔乱舞，四马奔腾（6:1-8）](https://www.bumeizhiye.com/2020-11-05-6271)  |  [启示录第九课：川普赢了](https://www.youtube.com/watch?v=TVGuv5SxVR8)
 2020-10-31  |  [启示录第八课：羔羊站立，祂曾被杀（5:1-14）](https://www.bumeizhiye.com/2020-10-29-6265)  |  [启示录第八课：大选之后](https://www.youtube.com/watch?v=m1YRmMW35rQ)  
 2020-10-24  |  [启示录第七课：宝座周围有四个活物（4:6-11）](https://www.bumeizhiye.com/2020-10-22-6260)  |  [启示录第七课：大选](https://www.youtube.com/watch?v=rrPemU3Vjic)  
 2020-10-17  |  [启示录第六课：一个宝座安置在天上（4:1-5）](https://www.bumeizhiye.com/2020-10-15-6252)  |  [启示录第六课：天位](https://www.youtube.com/watch?v=FvBpN9RSpEE)  
