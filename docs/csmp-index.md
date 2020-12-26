@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2020-12-19  |  [启示录第十五课：粪坑先生及其蝗军（9:1-11）](https://www.bumeizhiye.com/2020-12-17-6306)  |  [启示录第十五课：圣诞](https://www.youtube.com/watch?v=kXOBP8VFS-s)
 2020-12-12  |  [启示录第十四课：这世界需要大审判（8:6-13）](https://www.bumeizhiye.com/2020-12-10-6303)  |  [启示录第十四课：祸哉祸哉祸哉](https://www.youtube.com/watch?v=dMeggA5yKyY)
 2020-12-05  |  [启示录第十三课：羔羊揭开了第七印（8:1-5）](https://www.bumeizhiye.com/2020-12-03-6294)  |  [启示录第十三课：川普，该动手了](https://www.youtube.com/watch?v=enFfYar2Y6k)
 2020-11-28  |  [启示录第十二课：这些穿白衣的是谁（7:9-17）](https://www.bumeizhiye.com/2020-11-26-6290)  |  [启示录第十二课：白衣川普](https://www.youtube.com/watch?v=YVangbUtrWU)
