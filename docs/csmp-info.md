@@ -9,7 +9,7 @@
 ## 友情提醒
 
 * [http://www.csmp.xyz](http://www.csmp.xyz)，每周一早上更新圣经课程音频和PPT。
-* 完整的雅歌课程见：[http://thesong.hisword.cn](http://thesong.hisword.cn)
+* 完整的雅歌课程见：[http://thesong.hisword.one](http://thesong.hisword.one)
 
 ## 交流社群
 
