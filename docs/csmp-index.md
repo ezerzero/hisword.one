@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2021-01-02  |  [启示录第十七课：元旦，新教改革（10:1-11）](https://www.bumeizhiye.com/2020-12-31-6324)  |  [启示录第十七课：全面反击](https://www.youtube.com/watch?v=qGoMiq0MInc)
 2020-12-26  |  [启示录第十六课：二亿马军哪里来（9:12-21）](https://www.bumeizhiye.com/2020-12-24-6316)  |  [启示录第十六课：决战新年](https://www.youtube.com/watch?v=Tv2vPrLwdnw)
 2020-12-19  |  [启示录第十五课：粪坑先生及其蝗军（9:1-11）](https://www.bumeizhiye.com/2020-12-17-6306)  |  [启示录第十五课：圣诞](https://www.youtube.com/watch?v=kXOBP8VFS-s)
 2020-12-12  |  [启示录第十四课：这世界需要大审判（8:6-13）](https://www.bumeizhiye.com/2020-12-10-6303)  |  [启示录第十四课：祸哉祸哉祸哉](https://www.youtube.com/watch?v=dMeggA5yKyY)
