@@ -2,13 +2,13 @@
 
 ## 通知
 
-* 目前原文课程时间为北京时间每周六晚上8点，[Zoom](/zoom.md)平台授课。。
+* 目前原文课程时间为北京时间每周一晚上8点，[Zoom](/zoom.md)平台授课。。
 * 2020年5月25日开始百度网盘上的课程资料不再更新。
 * 所有课程课程资料已转移至[LarkSuite](https://www.larksuite.com/download) ，报名学员加入请发邮件至ezerchen@qq.com
 
 ## 友情提醒
 
-* [http://www.csmp.xyz](http://www.csmp.xyz)，每周一早上更新圣经课程音频和PPT。
+* [http://www.csmp.xyz](http://www.csmp.xyz)，每周更新圣经课程音频和PPT。
 * 完整的雅歌课程见：[http://thesong.hisword.one](http://thesong.hisword.one)
 
 ## 交流社群
@@ -19,7 +19,7 @@
 
 安卓用户如果不能顺利访问Google Play，可以在[官网](https://mixin.one/messenger)下载安装包。
 
-iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；海外用户从app store安装“Mixin Messenger”即可。
+iOS用户从app store安装“Mixin Messenger”即可，中国大陆用户可以申请海外apple id从app store下载。
 
 另外，Mixin Messenger还有桌面版，桌面版支持MacOS，WindowsX64等。
 
@@ -29,6 +29,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
 
 * [CSMP圣经课程Youtube频道](https://www.youtube.com/channel/UC2MgB-upjmPWAP_p7hdk_MQ)（在中国大陆需科学上网才能打开）
 * [OneDrive上的课程资料](https://1drv.ms/f/s!AgnuHY2oXaZp_HPkjxIc4fSR_hRc)
+* OneDrive上包含所有的课程资料，Larksuite上只有音频、PPT和最近的视频。
 
 ## 工具
 
@@ -60,6 +61,7 @@ iOS中国大陆用户可以从app store里安装“Mixin 密信畅聊版”；�
   * 马可福音
 * [CSMP原文课程](https://pan.baidu.com/s/1ZPt9z9TC-e0gKSqs6PsrFw)
   * 视频（周日更新）
+* 20_冬季问答
 * 19_启示录
 * 18_2020年夏季集训
 * 17_雅歌

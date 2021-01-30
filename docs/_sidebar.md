@@ -1,7 +1,6 @@
 * [CSMP简介](/  "CSMP简介")
 * [CSMP公开资料](/csmp-info.md  "CSMP公开资料")
 * [CSMP课程讲章](/sermon.md  "CSMP课程讲章")
-* [不寐之夜目录](/bmzy-index.md  "不寐之夜目录")
 * [CSMP课程目录](/csmp-index.md  "CSMP课程目录")
 * [CSMP参考书目](/csmp-refbooks.md  "CSMP参考书")
 * [主日聚会程序](/liturgy.md  "主日聚会程序")
