@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2021-01-02  |  [启示录第十八课：谁是那两个见证人（11:1-6）](https://www.bumeizhiye.com/2021-01-07-6330)  |  [启示录第十八课：教会权柄](https://www.youtube.com/watch?v=4ib0MLEXli4)
 2021-01-02  |  [启示录第十七课：元旦，新教改革（10:1-11）](https://www.bumeizhiye.com/2020-12-31-6324)  |  [启示录第十七课：全面反击](https://www.youtube.com/watch?v=qGoMiq0MInc)
 2020-12-26  |  [启示录第十六课：二亿马军哪里来（9:12-21）](https://www.bumeizhiye.com/2020-12-24-6316)  |  [启示录第十六课：决战新年](https://www.youtube.com/watch?v=Tv2vPrLwdnw)
 2020-12-19  |  [启示录第十五课：粪坑先生及其蝗军（9:1-11）](https://www.bumeizhiye.com/2020-12-17-6306)  |  [启示录第十五课：圣诞](https://www.youtube.com/watch?v=kXOBP8VFS-s)

@@ -42,6 +42,7 @@ iOS用户从app store安装“Mixin Messenger”即可，中国大陆用户可�
 * 远程支持：[TeamViewer](https://www.teamviewer.com/)
 * 浏览器：[Chrome浏览器](https://dl.pconline.com.cn/download/51614.html)
 * 在线协作：[LarkSuite](https://www.larksuite.com/download)
+* 文件同步：[BitTorrent Sync](https://pan.baidu.com/s/1luhLnUmW2jBvz-g80FoC0g)【提取码: 2txs】【Key: B27XKQMTEOT62OJRBOGDPTCTOKOWBTIYR】
 * 在线匿名语言聊天：[Mornin](https://mornin.fm)
 * Windows优质软件：[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
