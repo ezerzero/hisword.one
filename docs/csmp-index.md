@@ -4,7 +4,8 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
-2021-02-06  |  [启示录第十九课：见证的代价结局（11:7-14）](https://www.bumeizhiye.com/2021-02-04-6397  |  [启示录第十九课：顺服君王](https://www.youtube.com/watch?v=Fxq5Z-BYrKc)
+2021-02-13  |  [启示录第二十课：耶稣基督作王了（11:15-19）](https://www.bumeizhiye.com/2021-02-11-6417)  |  [启示录第二十课：基督是王](https://www.youtube.com/watch?v=A63qID70dCg)
+2021-02-06  |  [启示录第十九课：见证的代价结局（11:7-14）](https://www.bumeizhiye.com/2021-02-04-6397)  |  [启示录第十九课：顺服君王](https://www.youtube.com/watch?v=Fxq5Z-BYrKc)
 2021-01-30  |  [启示录第十八课：谁是那两个见证人（11:1-6）](https://www.bumeizhiye.com/2021-01-07-6330)  |  [启示录第十八课：教会权柄](https://www.youtube.com/watch?v=4ib0MLEXli4)
 2021-01-02  |  [启示录第十七课：元旦，新教改革（10:1-11）](https://www.bumeizhiye.com/2020-12-31-6324)  |  [启示录第十七课：全面反击](https://www.youtube.com/watch?v=qGoMiq0MInc)
 2020-12-26  |  [启示录第十六课：二亿马军哪里来（9:12-21）](https://www.bumeizhiye.com/2020-12-24-6316)  |  [启示录第十六课：决战新年](https://www.youtube.com/watch?v=Tv2vPrLwdnw)
