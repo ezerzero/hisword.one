@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2021-02-20  |  [启示录第二十一课：审判龙的传人（12:1-17）](https://www.bumeizhiye.com/2021-02-18-6444)  |  [启示录第二十一课：龙的传人](https://www.youtube.com/watch?v=dJixWUvwda8)
 2021-02-13  |  [启示录第二十课：耶稣基督作王了（11:15-19）](https://www.bumeizhiye.com/2021-02-11-6417)  |  [启示录第二十课：基督是王](https://www.youtube.com/watch?v=A63qID70dCg)
 2021-02-06  |  [启示录第十九课：见证的代价结局（11:7-14）](https://www.bumeizhiye.com/2021-02-04-6397)  |  [启示录第十九课：顺服君王](https://www.youtube.com/watch?v=Fxq5Z-BYrKc)
 2021-01-30  |  [启示录第十八课：谁是那两个见证人（11:1-6）](https://www.bumeizhiye.com/2021-01-07-6330)  |  [启示录第十八课：教会权柄](https://www.youtube.com/watch?v=4ib0MLEXli4)
