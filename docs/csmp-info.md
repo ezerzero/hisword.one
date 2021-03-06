@@ -2,7 +2,7 @@
 
 ## 通知
 
-* 目前原文课程时间为北京时间每周一晚上8点，[Zoom](/zoom.md)平台授课。。
+* 目前原文课程时间为北京时间每周一晚上8点，[Zoom](/zoom.md)平台授课。
 * 2020年5月25日开始百度网盘上的课程资料不再更新。
 * 所有课程课程资料已转移至[LarkSuite](https://www.larksuite.com/download) ，报名学员加入请发邮件至ezerchen@qq.com
 
@@ -66,7 +66,6 @@ iOS用户从app store安装“Mixin Messenger”即可，中国大陆用户可�
 * 19_启示录
 * 18_2020年夏季集训
 * 17_雅歌
-* [证道字幕版](https://pan.baidu.com/s/19Y_vRgGvRRwGkzNMPLCR1g) 提取码:p6xu
 * 16_犹大书
 * 15_少年人的圣经课程【概论部分】
 * 14_雅各书
