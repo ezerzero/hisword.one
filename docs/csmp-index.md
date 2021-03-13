@@ -4,6 +4,7 @@
 
 日期 | 讲章 | 视频
 ----------- | ----------- | -----------
+2021-03-06  |  [启示录第二十三课：降生在牲口槽（14:1-11）](https://www.bumeizhiye.com/2021-03-04-6451)  |  [启示录第二十三课：时与势](https://www.youtube.com/watch?v=7-DOFsWOoBk)
 2021-02-27  |  [启示录第二十二课：两兽统治世界（13:1-18）](https://www.bumeizhiye.com/2021-02-25-6448)  |  [启示录第二十二课：666](https://www.youtube.com/watch?v=BxKEo7dVvFo)
 2021-02-20  |  [启示录第二十一课：审判龙的传人（12:1-17）](https://www.bumeizhiye.com/2021-02-18-6444)  |  [启示录第二十一课：龙的传人](https://www.youtube.com/watch?v=dJixWUvwda8)
 2021-02-13  |  [启示录第二十课：耶稣基督作王了（11:15-19）](https://www.bumeizhiye.com/2021-02-11-6417)  |  [启示录第二十课：基督是王](https://www.youtube.com/watch?v=A63qID70dCg)

@@ -4,7 +4,6 @@
 
 * 目前原文课程时间为北京时间每周一晚上8点，[Zoom](/zoom.md)平台授课。
 * 2020年5月25日开始百度网盘上的课程资料不再更新。
-* 所有课程课程资料已转移至[LarkSuite](https://www.larksuite.com/download) ，报名学员加入请发邮件至ezerchen@qq.com
 
 ## 友情提醒
 

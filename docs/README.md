@@ -24,9 +24,3 @@ CSMP（Chinese Specific Ministry Pastor）
 * [CCLC徽章草案](/cclc_logo.md)
 * [不寐之夜推荐书目](/recommend-books.md)
 * [Zoom教程（CSMP圣经原文课程）](/zoom.md)
-
-## 特别提醒
-
-* 本站最新可用网址会发布在[lutheran.cn](http://www.lutheran.cn)上
-* CSMP公众号会发送变更信息以及每个主日【一年系列】的读经安排
-![CSMP Info](http://img.hisword.cn/csmp_info_wechat_mp.jpg)
